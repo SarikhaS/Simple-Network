@@ -3,7 +3,7 @@ Design a network in CISCO packet tracer to convert ACCOUNTS and DELIVERY departm
 
 
 1.	Design a network in CISCO packet tracer to convert ACCOUNTS and DELIVERY departments through the following
-2.	
+
 a)	Each department should contain at least 2 PCs
 
 b)	Appropriate number of switches and routers should be used in the network
